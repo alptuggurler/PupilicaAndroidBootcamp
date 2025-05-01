@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BootCamp</string>
+    <string name="black">Siyah</string>
+    <string name="white">Beyaz</string>
+    <string name="orange">Turuncu</string>
+    <string name="gray">Gri</string>
+    <string name="add_cart">Sepete Ekle</string>
+    <string name="price">2025₺</string>
+    <string name="description">Kablosuz ve pille çalışan klavye Uzun süre dayanıklı</string>
+    <string name="color_type">Renk Çeşitleri</string>
+    <string name="keyboard_type">Kablosuz Klavye</string></resources>
